@@ -70,7 +70,7 @@ const Footer = () => {
 
           {/* Copyright */}
           <p className="text-gray-400 text-sm">
-           © 2026 Sous Chef. Designed & Developed by Juganta K Boruah.
+           © 2026 Sous Chef. Designed & Developed by Juganta Kaushik Boruah.
           </p>
 
         </div>
